@@ -1,5 +1,5 @@
 # pngscript
-A small Python script which utilizes the [efsw python bindings I wrote](https://github.com/jaytohe/efsw) to watch for automatically convert webp and avif images to png.
+A small Python script which utilizes the [efsw python bindings I wrote](https://github.com/jaytohe/efsw) to automatically convert webp and avif images to png.
 
 # Requirements
 1. [pyefsw](https://github.com/jaytohe/efsw)
